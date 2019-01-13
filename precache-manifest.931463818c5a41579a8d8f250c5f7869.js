@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "086934e2563e490d4309ddad6be8bed8",
-    "url": "/pages/static/media/banner-pc.086934e2.jpg"
+    "revision": "5c4aa2813f00e751ea725f882aba4035",
+    "url": "/pages/static/media/itli@1.5c4aa281.jpeg"
   },
   {
     "revision": "e3709b2fdaae5ec17f40",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/pages/static/media/bannerITLI.37cc9514.jpg"
   },
   {
-    "revision": "5c4aa2813f00e751ea725f882aba4035",
-    "url": "/pages/static/media/itli@1.5c4aa281.jpeg"
+    "revision": "086934e2563e490d4309ddad6be8bed8",
+    "url": "/pages/static/media/banner-pc.086934e2.jpg"
   },
   {
     "revision": "e3709b2fdaae5ec17f40",
