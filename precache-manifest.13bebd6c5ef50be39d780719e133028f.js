@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/pages/static/media/banner-pc.086934e2.jpg"
   },
   {
-    "revision": "debd28b63d5e5dd9b9a4",
+    "revision": "b8771269ac399269befc",
     "url": "/pages/static/css/main.2aa47f8c.chunk.css"
   },
   {
@@ -24,16 +24,12 @@ self.__precacheManifest = [
     "url": "/pages/static/media/itli@1.5c4aa281.jpeg"
   },
   {
-    "revision": "debd28b63d5e5dd9b9a4",
-    "url": "/pages/static/js/main.debd28b6.chunk.js"
+    "revision": "b8771269ac399269befc",
+    "url": "/pages/static/js/main.b8771269.chunk.js"
   },
   {
     "revision": "b0aa499a3d7ab09c2800890096191881",
     "url": "/pages/static/media/volkan-olmez-73767-unsplash.b0aa499a.jpg"
-  },
-  {
-    "revision": "1f14dc570a5d148b2c7f75c05aa83b98",
-    "url": "/pages/static/media/taduuda-72915-unsplash.1f14dc57.jpg"
   },
   {
     "revision": "a3d039b9371f599da77377a91defcb46",
@@ -44,7 +40,11 @@ self.__precacheManifest = [
     "url": "/pages/static/media/rawpixel-196509-unsplash.a8ec8bd2.jpg"
   },
   {
-    "revision": "6148c1fcc478fc3a0c52d983602c8919",
+    "revision": "1f14dc570a5d148b2c7f75c05aa83b98",
+    "url": "/pages/static/media/taduuda-72915-unsplash.1f14dc57.jpg"
+  },
+  {
+    "revision": "83b4cbf3c6881dd1969662301abeb604",
     "url": "/pages/index.html"
   }
 ];
