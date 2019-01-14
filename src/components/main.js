@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import Form from "./form";
+import {MainLayout} from '../layouts/main_layout';
 
 class Main extends Component {
   render() {
     return (
+      <MainLayout>
       <main>
        
      
@@ -66,6 +68,7 @@ class Main extends Component {
 
        
       </main>
+      </MainLayout>
     );
   }
 }

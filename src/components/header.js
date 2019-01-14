@@ -7,7 +7,7 @@ class Header extends Component {
      
       <header >
       <Nav/>
-        <div className="head">
+        <div className="head class_hidden">
             <h1>Instituto Técnico< br/> Laboral INTERLEM'D</h1>
             <div>
               <p>Integer posuere leo non erat ornare dictum id vitae magna. 

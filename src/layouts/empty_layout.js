@@ -1,25 +1,17 @@
 import React, {Component} from 'react';
-import Header from "../components/header";
 import Footer from "../components/footer"; 
-import {  Route } from 'react-router-dom';
 import PropTypes from 'prop-types';
-
-/*export const MainLayout = ({component: Component, ...rest}) => {
-  return (
-    <Route {...rest} render={matchProps => (
-      <div className="container">
-        <Header />
-        <Component {...matchProps} />
-        <Footer />
-      </div>     
-    )} />
-  )
-};*/
-
-/*export const EmptyLayout = ({component: Component, ...rest}) => {
-  return (
-    <Route {...rest} render={matchProps => (
-      <div className="container">
+export class EmptyLayout extends Component {
+    propTypes = {
+      children: PropTypes.node.isRequired,
+      
+    }
+  
+    
+  render() {
+        return ( 
+ 
+  <div className="container">
         <header >
        
 
@@ -44,8 +36,8 @@ import PropTypes from 'prop-types';
         </div>      
        
       </nav>  
-      <div className="head class_hidden">
-            <h1 className="color_text_head">Instituto Técnico< br/> Laboral INTERLEM'D</h1>
+      <div className="head class_hidden" >
+            <h1 className="color_text_head  ">Instituto Técnico< br/> Laboral INTERLEM'D</h1>
             <div>
               <p  className="color_text_head"> <strong>Fundación Internacional de Libre Expresión Motora y de Destrezas INTERLEM’D, identificado con NIT 900459129-7 y con domicilio principal en la Carrera 24 No. 23-05. 
               Barrio el Salitre - Yopal Casanare, República de Colombia. 
@@ -55,32 +47,11 @@ import PropTypes from 'prop-types';
         </div>
        
       </header>
-        <Component {...matchProps} />
+      {this.props.children}
         <Footer />
       </div>     
-    )} />
-  )
-};*/
-
-export class MainLayout extends Component {
-  propTypes = {
-    component: PropTypes.node.isRequired,
-    children: PropTypes.node.isRequired,
     
-  }
-
-  
-render() {
-      return (
-
-<div className="container">       
-<Header />
-{this.props.children}
-<Footer />
-</div>    
-  
-      );
+        );
+      }
     }
-  }
-export default MainLayout
-
+  export default EmptyLayout

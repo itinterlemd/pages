@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
+import {EmptyLayout} from '../layouts/empty_layout';
 class Terminos extends Component {
   render() {
     return (
+      <EmptyLayout>
       <main>       
         <section className="padding_10_0 margin_auto txt_align_justify" id={'avisoID'}>
             <h2 className="line_height_none">AVISO DE PRIVACIDAD</h2>
@@ -101,6 +103,7 @@ Registrar la información de datos personales en las bases de datos y sistemas d
         </section>  
 
       </main>
+      </EmptyLayout>
     );
   }
 }
