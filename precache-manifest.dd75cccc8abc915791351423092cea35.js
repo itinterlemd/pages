@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/pages/static/media/rawpixel-196509-unsplash.a8ec8bd2.jpg"
   },
   {
-    "revision": "88c9048b6f656cda78130e3cf519118c",
+    "revision": "b853325ee78d6fb15bf97ce76cf4270d",
     "url": "/pages/index.html"
   }
 ];
