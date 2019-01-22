@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "b0aa499a3d7ab09c2800890096191881",
-    "url": "/static/media/volkan-olmez-73767-unsplash.b0aa499a.jpg"
+    "revision": "086934e2563e490d4309ddad6be8bed8",
+    "url": "/static/media/banner-pc.086934e2.jpg"
   },
   {
     "revision": "0f957880fdf7341d34c1",
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/static/media/bannerITLI.37cc9514.jpg"
   },
   {
-    "revision": "086934e2563e490d4309ddad6be8bed8",
-    "url": "/static/media/banner-pc.086934e2.jpg"
+    "revision": "5c4aa2813f00e751ea725f882aba4035",
+    "url": "/static/media/itli@1.5c4aa281.jpeg"
   },
   {
     "revision": "0f957880fdf7341d34c1",
     "url": "/static/js/main.0f957880.chunk.js"
   },
   {
-    "revision": "5c4aa2813f00e751ea725f882aba4035",
-    "url": "/static/media/itli@1.5c4aa281.jpeg"
+    "revision": "b0aa499a3d7ab09c2800890096191881",
+    "url": "/static/media/volkan-olmez-73767-unsplash.b0aa499a.jpg"
   },
   {
     "revision": "1f14dc570a5d148b2c7f75c05aa83b98",
