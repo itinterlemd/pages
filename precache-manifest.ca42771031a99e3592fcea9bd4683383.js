@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/pages/static/media/banner-pc.086934e2.jpg"
   },
   {
-    "revision": "066b92abea394264234f",
+    "revision": "d7db2245c0f79089b7eb",
     "url": "/pages/static/css/main.2aa47f8c.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/pages/static/js/runtime~main.fd506ed7.js"
   },
   {
-    "revision": "5c4aa2813f00e751ea725f882aba4035",
-    "url": "/pages/static/media/itli@1.5c4aa281.jpeg"
-  },
-  {
     "revision": "37cc9514680e3ecde616e590cff841d0",
     "url": "/pages/static/media/bannerITLI.37cc9514.jpg"
   },
   {
-    "revision": "066b92abea394264234f",
-    "url": "/pages/static/js/main.066b92ab.chunk.js"
+    "revision": "5c4aa2813f00e751ea725f882aba4035",
+    "url": "/pages/static/media/itli@1.5c4aa281.jpeg"
+  },
+  {
+    "revision": "d7db2245c0f79089b7eb",
+    "url": "/pages/static/js/main.d7db2245.chunk.js"
   },
   {
     "revision": "b0aa499a3d7ab09c2800890096191881",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/pages/static/media/rawpixel-196509-unsplash.a8ec8bd2.jpg"
   },
   {
-    "revision": "6ecf0be0632bd25f99a8ca459e94f87d",
+    "revision": "88c9048b6f656cda78130e3cf519118c",
     "url": "/pages/index.html"
   }
 ];
