@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/itli@1.5c4aa281.jpeg"
   },
   {
-    "revision": "630559a8d9cb4e085db4",
+    "revision": "0072eff4f1bed8069af2",
     "url": "/static/css/main.d552bf7b.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/bannerITLI.37cc9514.jpg"
   },
   {
-    "revision": "630559a8d9cb4e085db4",
-    "url": "/static/js/main.630559a8.chunk.js"
+    "revision": "0072eff4f1bed8069af2",
+    "url": "/static/js/main.0072eff4.chunk.js"
   },
   {
     "revision": "b0aa499a3d7ab09c2800890096191881",
@@ -36,15 +36,15 @@ self.__precacheManifest = [
     "url": "/static/media/taduuda-72915-unsplash.1f14dc57.jpg"
   },
   {
-    "revision": "a8ec8bd2109090bbb37e8cddd2d340ba",
-    "url": "/static/media/rawpixel-196509-unsplash.a8ec8bd2.jpg"
-  },
-  {
     "revision": "a3d039b9371f599da77377a91defcb46",
     "url": "/static/media/rawpixel-284723-unsplash.a3d039b9.jpg"
   },
   {
-    "revision": "b82a65172ac5a202e10c8b12fad1cb6e",
+    "revision": "a8ec8bd2109090bbb37e8cddd2d340ba",
+    "url": "/static/media/rawpixel-196509-unsplash.a8ec8bd2.jpg"
+  },
+  {
+    "revision": "a4b1b56444b783c24f1a05240e084718",
     "url": "/index.html"
   }
 ];
