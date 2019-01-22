@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "086934e2563e490d4309ddad6be8bed8",
-    "url": "https://itinterlemd.github.io/pages/static/media/banner-pc.086934e2.jpg"
+    "revision": "5c4aa2813f00e751ea725f882aba4035",
+    "url": "https://itinterlemd.github.io/pages/static/media/itli@1.5c4aa281.jpeg"
   },
   {
     "revision": "fd28aaa4427b7419aaeb",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "https://itinterlemd.github.io/pages/static/media/bannerITLI.37cc9514.jpg"
   },
   {
-    "revision": "5c4aa2813f00e751ea725f882aba4035",
-    "url": "https://itinterlemd.github.io/pages/static/media/itli@1.5c4aa281.jpeg"
+    "revision": "086934e2563e490d4309ddad6be8bed8",
+    "url": "https://itinterlemd.github.io/pages/static/media/banner-pc.086934e2.jpg"
   },
   {
     "revision": "fd28aaa4427b7419aaeb",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "https://itinterlemd.github.io/pages/static/media/rawpixel-196509-unsplash.a8ec8bd2.jpg"
   },
   {
-    "revision": "15d8007455e419fcab56a269ca6f88ab",
+    "revision": "f6daa441a1a1b8558cc883f57e84e1a7",
     "url": "https://itinterlemd.github.io/pages/index.html"
   }
 ];
